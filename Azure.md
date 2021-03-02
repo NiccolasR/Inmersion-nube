@@ -1,8 +1,8 @@
 # Cuándo usar Azure Container Instances o Azure Kubernetes Service
 
--Si desea ejecutar varias instancias de una aplicación en una sola máquina host, los contenedores son una excelente opción.
+Si desea ejecutar varias instancias de una aplicación en una sola máquina host, los contenedores son una excelente opción.
 
-¿Qué son los contenedores?
+# ¿Qué son los contenedores?
 - Son un entorno de virtualización. 
 - Puede ejecutar varios contenedores en un solo host físico o virtual.
 - No administra el sistema operativo de un contenedor.
