@@ -36,4 +36,3 @@ Azure tiene dos implementaciones de computación sin servidor:
 
 - Azure Functions : las funciones pueden ejecutar código en casi cualquier lenguaje moderno.
 - Azure Logic Apps : las aplicaciones lógicas están diseñadas en un diseñador basado en web y pueden ejecutar la lógica desencadenada por los servicios de Azure sin escribir ningún código.
-
