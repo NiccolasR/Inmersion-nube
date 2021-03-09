@@ -1,0 +1,4 @@
+# CLI de Azure
+La interfaz de línea de comandos de la CLI de Azure es un programa ejecutable con el que un desarrollador, un profesional de DevOps o un profesional de TI puede ejecutar comandos en Bash. Los comandos llaman a la API de Azure Rest para realizar todas las tareas de administración posibles en Azure. Puede ejecutar los comandos de forma independiente o combinados en un script y ejecutarlos juntos para la configuración de rutina, el desmontaje y el mantenimiento de un solo recurso o de un entorno completo.
+
+En muchos aspectos, la CLI de Azure es casi idéntica a Azure PowerShell en lo que puede hacer con ella. Ambos se ejecutan en Windows, Linux y Mac, y se puede acceder a ellos en un navegador web a través de Cloud Shell. La principal diferencia es la sintaxis que utiliza. Si ya domina PowerShell o Bash, puede usar la herramienta que prefiera.
