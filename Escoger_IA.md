@@ -23,7 +23,7 @@ Elija *Azure Machine Learning* cuando necesite analizar datos para predecir resu
 Use *Azure Machine Learning* para obtener la máxima flexibilidad. Los científicos de datos y los ingenieros de IA pueden usar las herramientas con las que están familiarizados y los datos que les proporcione para desarrollar modelos de aprendizaje profundo y de aprendizaje automático adaptados a sus requisitos particulares.
 
 # Más información
-- Para ver una lista exhaustiva de los servicios disponibles en Azure Cognitive Services, consulte ¿Qué es Azure Cognitive Services?
-- El servicio Personalizer de Cognitive Services se mencionó como una posible solución para uno de los escenarios. Para obtener más información, consulte Personalizer de Cognitive Services.
-- Azure Language Understanding (LUIS) se mencionó como una manera de interactuar con Bot Service mediante el lenguaje natural. Para obtener más información, consulte Azure Language Understanding (LUIS).
-- QnA Maker se mencionó como una solución de asistente virtual previamente empaquetado disponible en Azure Marketplace. Para obtener más información, consulte QnA Maker.
+- Para ver una lista exhaustiva de los servicios disponibles en Azure Cognitive Services, consulte ¿Qué es Azure Cognitive Services? https://docs.microsoft.com/es-es/azure/cognitive-services/what-are-cognitive-services
+- El servicio Personalizer de Cognitive Services se mencionó como una posible solución para uno de los escenarios. Para obtener más información, consulte Personalizer de Cognitive Services. https://azure.microsoft.com/es-mx/services/cognitive-services/personalizer/
+- Azure Language Understanding (LUIS) se mencionó como una manera de interactuar con Bot Service mediante el lenguaje natural. Para obtener más información, consulte Azure Language Understanding (https://www.luis.ai/).
+- QnA Maker se mencionó como una solución de asistente virtual previamente empaquetado disponible en Azure Marketplace. Para obtener más información, consulte https://www.qnamaker.ai/.
