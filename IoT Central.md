@@ -1,0 +1,6 @@
+# Azure IoT Central
+Azure IoT Central se basa en IoT Hub al agregar un panel que le permite conectar, monitorear y administrar sus dispositivos de IoT. La interfaz de usuario visual (UI) facilita la conexión rápida de nuevos dispositivos y observa cómo comienzan a enviar mensajes de error o telemetría. Puede ver el rendimiento general en todos los dispositivos en conjunto y puede configurar alertas que envíen notificaciones cuando un dispositivo específico necesita mantenimiento. Finalmente, puede enviar actualizaciones de firmware al dispositivo.
+
+Para ayudarlo a comenzar a trabajar rápidamente, IoT Central proporciona plantillas de inicio para escenarios comunes en diversas industrias, como el comercio minorista, la energía, la atención médica y el gobierno. Luego, personaliza las plantillas de inicio de diseño directamente en la interfaz de usuario eligiendo temas existentes o creando tu propio tema personalizado, configurando el logotipo, etc. Con IoT Central, puede personalizar las plantillas de inicio para los datos específicos que se envían desde sus dispositivos, los informes que desea ver y las alertas que desea enviar.
+
+Link: https://azure.microsoft.com/es-mx/services/iot-central/
